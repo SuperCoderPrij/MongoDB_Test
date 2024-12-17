@@ -1,2 +1,2 @@
-# MongoDB_Test
-MongoDB Testing app for Database connection through Express.js and Basic CRUD operations
+npm init -y
+npm i express mongoose ejs body-parser nodemon
